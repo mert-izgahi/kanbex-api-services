@@ -2,6 +2,7 @@
 import { AuthProvider, Role, AccountStatus } from "../lib/enums";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
+
 export interface IAccount extends Document {
   firstName: string;
   lastName: string;

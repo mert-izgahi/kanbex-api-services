@@ -19,6 +19,8 @@ export default {
   MAIL_USER: process.env.MAIL_USER,
   MAIL_PASS: process.env.MAIL_PASS,
   MAIL_FROM: process.env.MAIL_FROM,
+  MAILGUN_DOMAIN: process.env.MAILGUN_DOMAIN,
+  MAILGUN_API_KEY:process.env.MAILGUN_API_KEY,
   CLIENT_URL: process.env.CLIENT_URL,
   STRIPE_SECRET_KEY: process.env.STRIPE_SECRET_KEY,
   TASK_POSITION_INCREMENT: process.env.TASK_POSITION_INCREMENT
