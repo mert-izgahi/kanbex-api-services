@@ -1,0 +1,207 @@
+{"level":30,"time":"2025-03-15 00:09:11","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 00:09:11","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 00:10:40","pid":false,"msg":"POST /api/register {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\"}"}
+{"level":30,"time":"2025-03-15 00:10:46","pid":false,"msg":"POST /api/register {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\"}"}
+{"level":50,"time":"2025-03-15 00:10:46","pid":false,"msg":"Email already exist"}
+{"level":30,"time":"2025-03-15 00:17:46","pid":false,"msg":"POST /api/sign-up {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\",\"firstName\":\"Mert\",\"lastName\":\"Yusuf\"}"}
+{"level":30,"time":"2025-03-15 00:18:46","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 00:18:46","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 00:18:58","pid":false,"msg":"POST /api/sign-up {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\",\"firstName\":\"MERT\",\"lastName\":\"MERT\"}"}
+{"level":50,"time":"2025-03-15 00:18:58","pid":false,"msg":"Email already exist"}
+{"level":30,"time":"2025-03-15 00:22:42","pid":false,"msg":"POST /api/sign-up {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\",\"firstName\":\"MERT\",\"lastName\":\"MERT\"}"}
+{"level":50,"time":"2025-03-15 00:22:42","pid":false,"msg":"Email already exist"}
+{"level":30,"time":"2025-03-15 00:24:01","pid":false,"msg":"POST /api/sign-up {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\",\"firstName\":\"MERT\",\"lastName\":\"MERT\"}"}
+{"level":50,"time":"2025-03-15 00:24:01","pid":false,"msg":"Email already exist"}
+{"level":30,"time":"2025-03-15 00:24:04","pid":false,"msg":"POST /api/sign-up {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\",\"firstName\":\"MERT\",\"lastName\":\"MERT\"}"}
+{"level":50,"time":"2025-03-15 00:24:04","pid":false,"msg":"Email already exist"}
+{"level":30,"time":"2025-03-15 00:25:07","pid":false,"msg":"POST /api/sign-up {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\",\"firstName\":\"MERT\",\"lastName\":\"MERT\"}"}
+{"level":50,"time":"2025-03-15 00:25:07","pid":false,"msg":"Email already exist"}
+{"level":30,"time":"2025-03-15 00:25:08","pid":false,"msg":"POST /api/sign-up {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\",\"firstName\":\"MERT\",\"lastName\":\"MERT\"}"}
+{"level":50,"time":"2025-03-15 00:25:08","pid":false,"msg":"Email already exist"}
+{"level":30,"time":"2025-03-15 00:27:09","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 00:27:09","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 00:27:24","pid":false,"msg":"POST /api/sign-up {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\",\"firstName\":\"MERT\",\"lastName\":\"MERT\"}"}
+{"level":50,"time":"2025-03-15 00:27:25","pid":false,"msg":"Email already exist"}
+{"level":30,"time":"2025-03-15 00:27:26","pid":false,"msg":"POST /api/sign-up {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\",\"firstName\":\"MERT\",\"lastName\":\"MERT\"}"}
+{"level":50,"time":"2025-03-15 00:27:26","pid":false,"msg":"Email already exist"}
+{"level":30,"time":"2025-03-15 00:27:49","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 00:27:49","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 00:27:59","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 00:27:59","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 00:29:11","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 00:31:40","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 00:31:40","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 00:32:07","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 00:32:31","pid":false,"msg":"GET /api/get-me {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 00:32:48","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 00:32:48","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 00:33:34","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 00:33:34","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 00:33:58","pid":false,"msg":"POST /api/sign-out {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 00:34:03","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 00:34:08","pid":false,"msg":"POST /api/sign-out {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 00:34:12","pid":false,"msg":"GET /api/get-me {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 00:34:35","pid":false,"msg":"GET /api/get-me {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":50,"time":"2025-03-15 00:34:35","pid":false,"msg":"Unauthorized"}
+{"level":30,"time":"2025-03-15 00:34:37","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 00:34:37","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 00:34:55","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 00:34:55","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 00:35:38","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 00:41:00","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 01:24:57","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 01:28:01","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 01:39:11","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 01:39:11","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 01:51:02","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 02:23:29","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 02:25:10","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 02:26:49","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 02:26:52","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 04:08:15","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 04:08:15","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 04:08:30","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 04:08:30","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 04:08:44","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 04:08:44","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 04:08:54","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 04:08:54","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 04:13:36","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 04:13:36","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 04:13:44","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 04:13:44","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 04:14:06","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 04:14:06","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 04:14:09","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 04:14:09","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 04:14:53","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 04:14:53","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 04:15:19","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 04:15:19","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 20:02:57","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":50,"time":"2025-03-15 20:02:58","pid":false,"msg":"User not found"}
+{"level":30,"time":"2025-03-15 20:03:01","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":50,"time":"2025-03-15 20:03:02","pid":false,"msg":"User not found"}
+{"level":30,"time":"2025-03-15 20:03:46","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":50,"time":"2025-03-15 20:03:46","pid":false,"msg":"User not found"}
+{"level":30,"time":"2025-03-15 20:04:36","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":50,"time":"2025-03-15 20:04:36","pid":false,"msg":"User not found"}
+{"level":30,"time":"2025-03-15 20:05:02","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":50,"time":"2025-03-15 20:05:02","pid":false,"msg":"User not found"}
+{"level":30,"time":"2025-03-15 20:05:05","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":50,"time":"2025-03-15 20:05:05","pid":false,"msg":"User not found"}
+{"level":30,"time":"2025-03-15 20:05:27","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":50,"time":"2025-03-15 20:05:27","pid":false,"msg":"User not found"}
+{"level":30,"time":"2025-03-15 20:06:04","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":50,"time":"2025-03-15 20:06:05","pid":false,"msg":"User not found"}
+{"level":30,"time":"2025-03-15 20:06:25","pid":false,"msg":"POST /api/sign-up {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\",\"firstName\":\"Mert\",\"lastName\":\"Yusuf\"}"}
+{"level":30,"time":"2025-03-15 20:07:38","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:07:44","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:08:15","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:08:16","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:09:29","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:16:48","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":50,"time":"2025-03-15 20:16:48","pid":false,"msg":"User validation failed: password: Path `password` is required."}
+{"level":30,"time":"2025-03-15 20:17:21","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":50,"time":"2025-03-15 20:17:21","pid":false,"msg":"User validation failed: password: Path `password` is required."}
+{"level":30,"time":"2025-03-15 20:17:52","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 20:17:52","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 20:18:09","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:18:48","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:20:39","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:22:41","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:23:30","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:29:23","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:31:16","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 20:31:16","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 20:31:33","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:31:51","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 20:31:51","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 20:31:59","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:32:18","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 20:32:18","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 20:33:07","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:33:48","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:35:23","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:36:52","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:37:53","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:44:56","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 20:45:15","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:45:19","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:46:00","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:46:03","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:47:14","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:50:02","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:50:09","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:50:18","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:51:05","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:51:08","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:51:38","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:56:05","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:56:42","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:57:21","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:57:36","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 20:59:07","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 20:59:07","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 21:04:14","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 21:04:14","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 21:04:22","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 21:04:22","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 21:45:56","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 21:46:04","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 21:46:06","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 21:47:25","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 21:50:48","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 21:50:48","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 21:50:56","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 21:51:20","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 21:51:20","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 21:51:58","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 21:53:35","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 21:56:09","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-15 21:56:37","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 21:56:40","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 21:56:43","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 22:59:40","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 22:59:40","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 22:59:45","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:02:42","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 23:02:42","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 23:02:59","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:08:16","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:08:59","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:10:54","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:11:13","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:12:21","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:12:27","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:12:35","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:13:06","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:13:09","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:18:14","pid":false,"msg":"GET /api/callback {}"}
+{"level":30,"time":"2025-03-15 23:18:15","pid":false,"msg":"GET /api/callback {}"}
+{"level":30,"time":"2025-03-15 23:18:53","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:19:16","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:19:19","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:22:19","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:28:15","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 23:28:15","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 23:37:05","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 23:37:05","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 23:40:57","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:46:17","pid":false,"msg":"POST /callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"provider\":\"google\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\"}"}
+{"level":30,"time":"2025-03-15 23:47:11","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"provider\":\"google\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\"}"}
+{"level":30,"time":"2025-03-15 23:49:49","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:50:12","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:50:49","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:51:03","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"provider\":\"google\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\"}"}
+{"level":30,"time":"2025-03-15 23:51:21","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:52:36","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":30,"time":"2025-03-15 23:53:33","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"provider\":\"google\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\"}"}
+{"level":30,"time":"2025-03-15 23:54:00","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 23:54:00","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 23:54:29","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 23:54:29","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-15 23:54:49","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"provider\":\"google\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\"}"}
+{"level":30,"time":"2025-03-15 23:55:37","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"provider\":\"google\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\"}"}
+{"level":30,"time":"2025-03-15 23:59:39","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-15 23:59:39","pid":false,"msg":"Server is listening on port 5001"}

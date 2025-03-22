@@ -1,0 +1,565 @@
+{"level":30,"time":"2025-03-17 00:09:01","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 00:09:01","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 00:10:02","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:10:02","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:10:13","pid":false,"msg":"POST /api/upload-image {}"}
+{"level":30,"time":"2025-03-17 00:10:18","pid":false,"msg":"POST /api/create-workspace {\"name\":\"TEST\",\"description\":\"\",\"imageUrl\":\"http://res.cloudinary.com/doienkws9/image/upload/v1742159414/euriac74ybsfl4v6gsbl.webp\"}"}
+{"level":30,"time":"2025-03-17 00:10:22","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:10:37","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":50,"time":"2025-03-17 00:10:37","pid":false,"msg":"User not found"}
+{"level":30,"time":"2025-03-17 00:10:46","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 00:10:46","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:10:47","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:11:01","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:11:27","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:12:11","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":50,"time":"2025-03-17 00:12:11","pid":false,"msg":"User not found"}
+{"level":30,"time":"2025-03-17 00:12:18","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 00:12:18","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:12:19","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:12:39","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:12:43","pid":false,"msg":"POST /api/create-workspace {\"name\":\"TEST\",\"description\":\"\",\"imageUrl\":\"\"}"}
+{"level":30,"time":"2025-03-17 00:12:44","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:12:56","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:13:05","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:13:05","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:18:04","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 00:18:04","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:18:06","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:19:20","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:20:26","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 00:20:26","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 00:24:12","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 00:24:12","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 00:26:20","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:27:35","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:28:09","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:35:32","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:36:27","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:36:30","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:37:22","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:39:20","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:44:32","pid":false,"msg":"POST /api/sign-in {\"email\":\"mert@mail.com\",\"password\":\"Aa123456\"}"}
+{"level":50,"time":"2025-03-17 00:44:32","pid":false,"msg":"User not found"}
+{"level":30,"time":"2025-03-17 00:44:44","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 00:44:45","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:44:49","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:49:44","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:49:45","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:49:47","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:49:51","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:49:51","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:49:52","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:49:54","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:49:58","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:50:54","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:50:55","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:50:57","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:01","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:18","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:19","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:21","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:25","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:27","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:28","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:30","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:34","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:43","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:44","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:46","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:48","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:48","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:51:49","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:51","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:51:55","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:52:31","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 00:52:31","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 00:52:46","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 00:52:46","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 00:52:51","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:52:51","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:53:03","pid":false,"msg":"POST /api/upload-image {}"}
+{"level":30,"time":"2025-03-17 00:53:06","pid":false,"msg":"PUT /api/update-workspace/67d73ecbaee2f24336f96ede {\"name\":\"TEST\",\"description\":\"\",\"imageUrl\":\"http://res.cloudinary.com/doienkws9/image/upload/v1742161983/dukmu1efrtccnnxznzrz.webp\"}"}
+{"level":30,"time":"2025-03-17 00:54:15","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 00:54:15","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 00:54:16","pid":false,"msg":"PUT /api/update-workspace/67d73ecbaee2f24336f96ede {\"name\":\"TEST\",\"description\":\"\",\"imageUrl\":\"http://res.cloudinary.com/doienkws9/image/upload/v1742161983/dukmu1efrtccnnxznzrz.webp\"}"}
+{"level":30,"time":"2025-03-17 00:54:16","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:54:54","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:54:58","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:54:58","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:55:03","pid":false,"msg":"POST /api/upload-image {}"}
+{"level":30,"time":"2025-03-17 00:55:06","pid":false,"msg":"PUT /api/update-workspace/67d73ecbaee2f24336f96ede {\"name\":\"TEST\",\"description\":\"\",\"imageUrl\":\"http://res.cloudinary.com/doienkws9/image/upload/v1742162104/rjy5ifnbjkvckm1ze3bm.webp\"}"}
+{"level":30,"time":"2025-03-17 00:55:07","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:55:07","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:55:27","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 00:55:27","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:59:55","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 00:59:55","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:02:10","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:02:11","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:02:11","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:02:26","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:02:26","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:02:31","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:03:33","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:03:33","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:03:58","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:03:58","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:05:29","pid":false,"msg":"PUT /api/update-workspace/67d73ecbaee2f24336f96ede {\"name\":\"New WorkSpace\",\"description\":\"\",\"imageUrl\":\"http://res.cloudinary.com/doienkws9/image/upload/v1742162104/rjy5ifnbjkvckm1ze3bm.webp\"}"}
+{"level":30,"time":"2025-03-17 01:05:29","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:05:29","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:05:56","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:06:09","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:06:32","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:06:39","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:06:42","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:07:47","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:07:47","pid":false,"msg":"GET /api/get-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:16:08","pid":false,"msg":"DELETE /api/delete-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:16:42","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 01:16:42","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 01:16:50","pid":false,"msg":"DELETE /api/delete-workspace/67d73ecbaee2f24336f96ede {}"}
+{"level":30,"time":"2025-03-17 01:16:51","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:16:52","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:16:58","pid":false,"msg":"POST /api/create-workspace {\"name\":\"TEST 2\",\"description\":\"\",\"imageUrl\":\"\"}"}
+{"level":30,"time":"2025-03-17 01:16:58","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:17:00","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:18:00","pid":false,"msg":"GET /api/get-workspace/67d74dda97ce5a948a6e7d24 {}"}
+{"level":30,"time":"2025-03-17 01:20:53","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:21:03","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:26:32","pid":false,"msg":"GET /api/get-workspace/67d74dda97ce5a948a6e7d24 {}"}
+{"level":30,"time":"2025-03-17 01:27:15","pid":false,"msg":"GET /api/get-workspace/67d74dda97ce5a948a6e7d24 {}"}
+{"level":30,"time":"2025-03-17 01:27:27","pid":false,"msg":"GET /api/get-workspace/67d74dda97ce5a948a6e7d24 {}"}
+{"level":30,"time":"2025-03-17 01:33:04","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:33:04","pid":false,"msg":"GET /api/get-workspace/67d74dda97ce5a948a6e7d24 {}"}
+{"level":30,"time":"2025-03-17 01:33:38","pid":false,"msg":"GET /api/get-workspace/67d74dda97ce5a948a6e7d24 {}"}
+{"level":30,"time":"2025-03-17 01:39:47","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:39:50","pid":false,"msg":"GET /api/get-workspace/67d74dda97ce5a948a6e7d24 {}"}
+{"level":30,"time":"2025-03-17 01:41:58","pid":false,"msg":"GET /api/get-workspace/67d74dda97ce5a948a6e7d24 {}"}
+{"level":30,"time":"2025-03-17 01:41:58","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:42:04","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:42:06","pid":false,"msg":"GET /api/get-workspace/undefined {}"}
+{"level":50,"time":"2025-03-17 01:42:06","pid":false,"msg":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Workspace\""}
+{"level":30,"time":"2025-03-17 01:42:07","pid":false,"msg":"GET /api/get-workspace/undefined {}"}
+{"level":50,"time":"2025-03-17 01:42:07","pid":false,"msg":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Workspace\""}
+{"level":30,"time":"2025-03-17 01:42:09","pid":false,"msg":"GET /api/get-workspace/undefined {}"}
+{"level":50,"time":"2025-03-17 01:42:09","pid":false,"msg":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Workspace\""}
+{"level":30,"time":"2025-03-17 01:42:13","pid":false,"msg":"GET /api/get-workspace/undefined {}"}
+{"level":50,"time":"2025-03-17 01:42:13","pid":false,"msg":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Workspace\""}
+{"level":30,"time":"2025-03-17 01:43:24","pid":false,"msg":"GET /api/get-workspace/undefined {}"}
+{"level":50,"time":"2025-03-17 01:43:24","pid":false,"msg":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Workspace\""}
+{"level":30,"time":"2025-03-17 01:43:25","pid":false,"msg":"GET /api/get-workspace/undefined {}"}
+{"level":50,"time":"2025-03-17 01:43:25","pid":false,"msg":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Workspace\""}
+{"level":30,"time":"2025-03-17 01:43:27","pid":false,"msg":"GET /api/get-workspace/undefined {}"}
+{"level":50,"time":"2025-03-17 01:43:27","pid":false,"msg":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Workspace\""}
+{"level":30,"time":"2025-03-17 01:43:31","pid":false,"msg":"GET /api/get-workspace/undefined {}"}
+{"level":50,"time":"2025-03-17 01:43:31","pid":false,"msg":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Workspace\""}
+{"level":30,"time":"2025-03-17 01:43:34","pid":false,"msg":"GET /api/get-workspace/undefined {}"}
+{"level":50,"time":"2025-03-17 01:43:34","pid":false,"msg":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Workspace\""}
+{"level":30,"time":"2025-03-17 01:43:34","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:43:35","pid":false,"msg":"GET /api/get-workspace/undefined {}"}
+{"level":50,"time":"2025-03-17 01:43:35","pid":false,"msg":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Workspace\""}
+{"level":30,"time":"2025-03-17 01:43:37","pid":false,"msg":"GET /api/get-workspace/undefined {}"}
+{"level":50,"time":"2025-03-17 01:43:37","pid":false,"msg":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Workspace\""}
+{"level":30,"time":"2025-03-17 01:43:40","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:43:41","pid":false,"msg":"GET /api/get-workspace/undefined {}"}
+{"level":50,"time":"2025-03-17 01:43:41","pid":false,"msg":"Cast to ObjectId failed for value \"undefined\" (type string) at path \"_id\" for model \"Workspace\""}
+{"level":30,"time":"2025-03-17 01:43:45","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:43:47","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 01:43:51","pid":false,"msg":"GET /api/get-workspace/67d74dda97ce5a948a6e7d24 {}"}
+{"level":30,"time":"2025-03-17 01:43:56","pid":false,"msg":"GET /api/get-workspace/67d74dda97ce5a948a6e7d24 {}"}
+{"level":30,"time":"2025-03-17 01:43:56","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 03:08:59","pid":false,"msg":"POST /api/sign-out {}"}
+{"level":30,"time":"2025-03-17 03:09:40","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 03:40:40","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 03:40:44","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 03:40:48","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 03:43:10","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 03:45:13","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 03:45:13","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 03:45:18","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 03:45:18","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 03:45:50","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 03:45:50","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 03:45:59","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 03:45:59","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 03:46:03","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 03:46:03","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 03:47:27","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 03:47:27","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 03:48:40","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 03:48:40","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 03:53:09","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 03:53:09","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 03:53:10","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 03:57:06","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 03:57:06","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:57:07","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:57:09","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:57:13","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:58:10","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:58:11","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:58:13","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:58:17","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:10","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:11","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:13","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:17","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:26","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:27","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:29","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:33","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:39","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:40","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:42","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:46","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:58","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 03:59:59","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:00:01","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:00:05","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:02:44","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:02:44","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:02:45","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:02:47","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:02:51","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:02:52","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:02:53","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:02:55","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:02:59","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:03:21","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:03:22","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:03:24","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:03:28","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:03:28","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:03:29","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:03:31","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:03:35","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:04:05","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:04:06","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:04:08","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:04:12","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:04:39","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:04:40","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:04:42","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:04:46","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:05:03","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:05:04","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:05:06","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:05:10","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:05:10","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:05:11","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:05:13","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:05:17","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:05:48","pid":false,"msg":"POST /api/create-workspace {\"name\":\"TEST NOtification\",\"description\":\"\",\"imageUrl\":\"\"}"}
+{"level":50,"time":"2025-03-17 04:05:48","pid":false,"msg":"E11000 duplicate key error collection: kanbex-db.workspaces index: admin_1 dup key: { admin: \"67d73eb2aee2f24336f96ed9\" }"}
+{"level":30,"time":"2025-03-17 04:06:30","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:06:30","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:06:31","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:06:33","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:06:33","pid":false,"msg":"POST /api/create-workspace {\"name\":\"TEST NOtification\",\"description\":\"\",\"imageUrl\":\"\"}"}
+{"level":30,"time":"2025-03-17 04:06:34","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:06:35","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:06:35","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:06:36","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:06:38","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:06:42","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:06:52","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:06:52","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:06:53","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:06:54","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:06:54","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:06:55","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:06:57","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:07:01","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:07:40","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:07:40","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:07:45","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 04:07:45","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 04:08:13","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:08:27","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:08:27","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:09:25","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:09:25","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:09:55","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:10:04","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:10:09","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:10:10","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:10:10","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:10:51","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:10:52","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:10:52","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:11:45","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:11:45","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:11:48","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:11:48","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:12:20","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:12:21","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:12:21","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:12:58","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:13:27","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:13:27","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:14:36","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:14:37","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 04:14:37","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:14:51","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 04:14:52","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 13:44:57","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 13:44:57","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 13:45:51","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 13:45:51","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 13:47:40","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 13:47:40","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 13:47:41","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 13:47:41","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 18:25:20","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 18:25:20","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 20:44:59","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 20:44:59","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 20:45:48","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 20:45:48","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 20:47:12","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 20:47:15","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 20:47:15","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 20:48:02","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 20:48:02","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 20:48:08","pid":false,"msg":"POST /api/create-workspace {\"name\":\"Mert's Workspace\",\"description\":\"\",\"imageUrl\":\"\"}"}
+{"level":30,"time":"2025-03-17 20:48:08","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 20:48:11","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 20:48:11","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:49:06","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:49:09","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:49:42","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:49:50","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:50:08","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:50:15","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:50:22","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:50:24","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:50:33","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:50:54","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:51:02","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:53:06","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 20:58:46","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 20:58:49","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 20:58:49","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:00:24","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:00:26","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:00:26","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:00:30","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:00:57","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:01:01","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:01:01","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:01:26","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:01:26","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:02:04","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:02:37","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:02:51","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:03:35","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:03:37","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:03:37","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:04:12","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:05:15","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:05:25","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:05:31","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:05:43","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:05:48","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:06:57","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:06:57","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:07:10","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:07:16","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:07:17","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:10:39","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:10:54","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:10:55","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:10:55","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:11:07","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:11:32","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:13:12","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:13:14","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:13:14","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:13:21","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:13:32","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:13:43","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:14:14","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:14:34","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:14:39","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:14:47","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:15:13","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:15:52","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:15:52","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:16:04","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:16:04","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:17:36","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:17:38","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:17:38","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:17:51","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:17:55","pid":false,"msg":"POST /api/read-notification/67d860587339d821550a64c7 {}"}
+{"level":30,"time":"2025-03-17 21:18:07","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:18:09","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:18:15","pid":false,"msg":"POST /api/read-notification/67d860587339d821550a64c7 {}"}
+{"level":30,"time":"2025-03-17 21:18:42","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:18:47","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:18:51","pid":false,"msg":"PUT /api/read-notification/67d860587339d821550a64c7 {}"}
+{"level":30,"time":"2025-03-17 21:18:51","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:18:57","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:18:57","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:29:07","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:29:07","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:29:41","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:29:41","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:29:47","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:29:47","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:30:41","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:30:41","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:30:59","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:30:59","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:31:26","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:31:26","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:35:14","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:35:14","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:35:35","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:35:35","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:35:43","pid":false,"msg":"POST /api/sign-out {}"}
+{"level":30,"time":"2025-03-17 21:36:11","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 21:36:13","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:36:14","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:36:16","pid":false,"msg":"POST /api/create-workspace {\"name\":\"Mert's Workspace\",\"description\":\"\",\"imageUrl\":\"\"}"}
+{"level":30,"time":"2025-03-17 21:36:17","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:36:18","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:36:18","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:36:40","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:36:40","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:37:02","pid":false,"msg":"POST /api/create-workspace {\"name\":\"Mert's Workspace TEST\",\"description\":\"\",\"imageUrl\":\"\"}"}
+{"level":30,"time":"2025-03-17 21:37:03","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:37:03","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:37:04","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:37:04","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:37:40","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 21:37:41","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:37:41","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:37:43","pid":false,"msg":"POST /api/create-workspace {\"name\":\"Mert's Workspace\",\"description\":\"\",\"imageUrl\":\"\"}"}
+{"level":30,"time":"2025-03-17 21:37:44","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:37:45","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:37:45","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:38:03","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:38:03","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:38:39","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:38:39","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:38:45","pid":false,"msg":"POST /api/create-workspace {\"name\":\"Mert's Workspace2\",\"description\":\"\",\"imageUrl\":\"\"}"}
+{"level":30,"time":"2025-03-17 21:38:45","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:38:45","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:38:46","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:38:46","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:39:23","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:39:23","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:39:25","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:39:25","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:39:51","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:39:51","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:39:51","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:40:18","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:40:18","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:40:24","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:40:30","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:40:30","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:40:44","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:40:47","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:40:47","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:41:35","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:41:35","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:41:49","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:41:49","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:41:50","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:41:50","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:41:53","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:41:53","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:41:58","pid":false,"msg":"POST /api/create-workspace {\"name\":\"Mert's Workspace NEW\",\"description\":\"\",\"imageUrl\":\"\"}"}
+{"level":30,"time":"2025-03-17 21:41:58","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:41:58","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:41:59","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:41:59","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:42:07","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:42:11","pid":false,"msg":"PUT /api/read-notification/67d86cf66e5330d3edb7141e {}"}
+{"level":50,"time":"2025-03-17 21:42:11","pid":false,"msg":"Notification not found"}
+{"level":30,"time":"2025-03-17 21:42:23","pid":false,"msg":"PUT /api/read-notification/67d86cf66e5330d3edb7141e {}"}
+{"level":50,"time":"2025-03-17 21:42:23","pid":false,"msg":"Notification not found"}
+{"level":30,"time":"2025-03-17 21:42:31","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:42:31","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:42:38","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:42:38","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:42:50","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 21:42:50","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 21:42:51","pid":false,"msg":"PUT /api/read-notification/67d86cf66e5330d3edb7141e {}"}
+{"level":30,"time":"2025-03-17 21:42:51","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:43:24","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:43:38","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:43:51","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:46:25","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:46:25","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:46:39","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahii@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"Izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocL1qw3K5k9qbF1VA3Q1uegin2UsfZpSpvKiD8bU5AzbzP07Sw=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 21:46:39","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:46:40","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:46:42","pid":false,"msg":"POST /api/create-workspace {\"name\":\"Mert's Workspace\",\"description\":\"\",\"imageUrl\":\"\"}"}
+{"level":30,"time":"2025-03-17 21:46:42","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:46:43","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:46:43","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:46:56","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:46:56","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:47:32","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 21:47:32","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:47:33","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:47:33","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:47:40","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 21:47:40","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:47:41","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:47:41","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:47:47","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:47:47","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:47:52","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:47:53","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:48:21","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 21:48:21","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:48:22","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:48:22","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:48:25","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:48:25","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:48:25","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:48:30","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:48:30","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:48:33","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:48:33","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:48:43","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:48:43","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:48:47","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:48:47","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:48:47","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:49:27","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-17 21:49:27","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:49:28","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:49:28","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:50:21","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:50:21","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:50:21","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:50:21","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:50:25","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:50:28","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:51:32","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":50,"time":"2025-03-17 21:51:32","pid":false,"msg":"Unauthorized"}
+{"level":30,"time":"2025-03-17 21:51:33","pid":false,"msg":"GET /favicon.ico {}"}
+{"level":30,"time":"2025-03-17 21:53:55","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:53:58","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:54:02","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:54:02","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:54:51","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 21:54:51","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:58:21","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-17 21:58:21","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 22:10:57","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 22:10:57","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 22:11:06","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 22:11:06","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 22:11:10","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 22:11:10","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 22:11:24","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-17 22:11:24","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-17 22:12:34","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-17 22:12:34","pid":false,"msg":"GET /api/get-notifications {}"}
