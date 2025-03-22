@@ -27,10 +27,13 @@ app.use(cors(corsOptions));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
+app.use(express.static("public"));
 
 app.use(authMiddleware);
 app.use(loggerMiddleware);
-app.use(express.static("public"));
+app.get("/", (req: Request, res: Response) => {
+  res.send("Hello World!");
+});
 app.use("/api", authRouter);
 app.use("/api", cloudinaryRouter);
 app.use("/api", workspaceRouter);
@@ -44,9 +47,7 @@ app.use("/api", commentsRouter);
 app.use(errorHandlerMiddleware);
 app.use(notFoundMiddleware);
 
-app.get("/", (req: Request, res: Response) => {
-  res.send("Hello World!");
-});
+
 
 
 
