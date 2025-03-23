@@ -145,9 +145,6 @@ export const deleteWorkspace = async (req: Request, res: Response) => {
 export const searchAccountsByEmail = async (req: Request, res: Response) => {
   const { search } = req.query;
 
-  if (!search) {
-    throw ApiError.badRequest("Search is required");
-  }
 
   const { workspaceId } = req.params;
 
