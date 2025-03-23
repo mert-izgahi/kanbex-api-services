@@ -27,7 +27,8 @@ export default {
 };
 const ALLOWED_ORIGINS = [
   "http://localhost:3000",
-  "http://localhost:5001"
+  "http://localhost:5001",
+  "https://kanbex-client-app.vercel.app"
 ];
 export const corsOptions = {
   origin: (origin: any, callback: any) => {
