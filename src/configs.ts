@@ -26,9 +26,9 @@ export default {
   TASK_POSITION_INCREMENT: process.env.TASK_POSITION_INCREMENT
 };
 const ALLOWED_ORIGINS = [
+  "https://kanbex-client-app.onrender.com",
   "http://localhost:3000",
   "http://localhost:5001",
-  "https://kanbex-client-app.onrender.com"
 ];
 export const corsOptions = {
   origin: (origin: any, callback: any) => {
