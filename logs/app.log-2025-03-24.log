@@ -1,0 +1,22 @@
+{"level":30,"time":"2025-03-24 19:59:24","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-24 19:59:24","pid":false,"msg":"Server is listening on port 5001"}
+{"level":30,"time":"2025-03-24 20:00:12","pid":false,"msg":"POST /api/callback {\"email\":\"mert.izgahi.93@gmail.com\",\"firstName\":\"Mert\",\"lastName\":\"izgahi\",\"imageUrl\":\"https://lh3.googleusercontent.com/a/ACg8ocKSXv01f9cDF5GG_i_BzWKHFhwtR7IRzlyfpm8GY_wVY_P4t0c=s96-c\",\"provider\":\"google\"}"}
+{"level":30,"time":"2025-03-24 20:00:12","pid":false,"msg":"GET /api/get-me {}"}
+{"level":30,"time":"2025-03-24 20:00:16","pid":false,"msg":"GET /api/get-me {}"}
+{"level":30,"time":"2025-03-24 20:00:16","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-24 20:00:16","pid":false,"msg":"GET /api/get-workspace/67e15cf35323f3608666a0e9 {}"}
+{"level":30,"time":"2025-03-24 20:00:17","pid":false,"msg":"GET /api/get-me {}"}
+{"level":30,"time":"2025-03-24 20:00:18","pid":false,"msg":"GET /api/get-me {}"}
+{"level":30,"time":"2025-03-24 20:00:24","pid":false,"msg":"GET /api/get-me {}"}
+{"level":30,"time":"2025-03-24 20:00:24","pid":false,"msg":"GET /api/get-me {}"}
+{"level":30,"time":"2025-03-24 20:00:25","pid":false,"msg":"GET /api/get-workspace/67e15cf35323f3608666a0e9 {}"}
+{"level":30,"time":"2025-03-24 20:00:25","pid":false,"msg":"GET /api/get-me {}"}
+{"level":30,"time":"2025-03-24 20:00:25","pid":false,"msg":"GET /api/get-workspace/67e15cf35323f3608666a0e9 {}"}
+{"level":30,"time":"2025-03-24 20:00:25","pid":false,"msg":"GET /api/get-workspaces {}"}
+{"level":30,"time":"2025-03-24 20:00:25","pid":false,"msg":"GET /api/get-projects?workspace=67e15cf35323f3608666a0e9 {}"}
+{"level":30,"time":"2025-03-24 20:00:25","pid":false,"msg":"GET /api/get-workspaces-analytics/67e15cf35323f3608666a0e9 {}"}
+{"level":30,"time":"2025-03-24 20:00:25","pid":false,"msg":"GET /api/get-notifications {}"}
+{"level":30,"time":"2025-03-24 20:00:25","pid":false,"msg":"GET /api/get-me {}"}
+{"level":30,"time":"2025-03-24 20:00:32","pid":false,"msg":"GET /api/get-me {}"}
+{"level":30,"time":"2025-03-24 20:25:59","pid":false,"msg":"Connected to MongoDB"}
+{"level":30,"time":"2025-03-24 20:25:59","pid":false,"msg":"Server is listening on port 5001"}
