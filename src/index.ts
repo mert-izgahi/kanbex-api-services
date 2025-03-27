@@ -1,4 +1,4 @@
-﻿import express, { Request, Response } from "express";
+import express, { Request, Response } from "express";
 import cors from "cors";
 import cookieParser from "cookie-parser";
 import { logger } from "./lib/logger";
@@ -25,7 +25,7 @@ const app = express();
 
 app.use(cors({
   origin:"*"
-            ));
+}));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
@@ -33,8 +33,8 @@ app.use(express.static("public"));
 
 app.use(authMiddleware);
 app.use(loggerMiddleware);
-app.get("/", (req: Request, res: Response) => {
-  res.send("Hello World!");
+app.get("/api/health-check", (req: Request, res: Response) => {
+  res.json({ success: true });
 });
 app.use("/api", authRouter);
 app.use("/api", cloudinaryRouter);
@@ -48,10 +48,6 @@ app.use("/api", commentsRouter);
 
 app.use(errorHandlerMiddleware);
 app.use(notFoundMiddleware);
-
-
-
-
 
 app.listen(configs.PORT, async () => {
   await connectDatabase(configs.MONGODB_URI as string);
