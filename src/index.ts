@@ -23,7 +23,9 @@ import { commentsRouter } from "./routers/comments.router";
 
 const app = express();
 
-app.use(cors(corsOptions));
+app.use(cors({
+  origin:"*"
+            ));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
