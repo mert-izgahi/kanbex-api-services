@@ -97,7 +97,7 @@ export const videoUploader = multer({
 });
 
 export const uploadImage = async (req: Request, res: Response) => {
-  const file = req.file;
+  const file = await req.file;
   if (!file) {
     res.status(400).json({ error: "No image file found" });
     return;
@@ -133,7 +133,7 @@ export const uploadDocument = async (req: Request, res: Response) => {
     format: "pdf",
     chunk_size: 6000000, // 6MB
   });
-  
+
   fs.unlinkSync(file.path);
   sendResponse(res, result);
 };

@@ -1,41 +1,13 @@
-﻿import nodemailer from "nodemailer";
-import configs from "../configs";
+﻿import configs from "../configs";
 import { logger } from "./logger";
 import { IWorkspace } from "../models/workspace.model";
 import { IAccount } from "../models/account.model";
 import { IInvite } from "../models/invite.model";
+const sgMail = require("@sendgrid/mail");
+
+sgMail.setApiKey(process.env.SEND_GRID_API_KEY as string);
 
 class Mailer {
-  // private transporter = nodemailer.createTransport({
-  //   host: configs.MAIL_HOST,
-  //   port: 587,
-  //   auth: {
-  //     user: configs.MAIL_USER,
-  //     pass: configs.MAIL_PASS,
-  //   },
-  // });
-  private transporter = nodemailer.createTransport({
-    service: "gmail",
-    auth: {
-      user: configs.MAIL_USER,
-      pass: configs.MAIL_PASS,
-    },
-  });
-
-  async sendMail(to: string, subject: string, html: string) {
-    try {
-      await this.transporter.sendMail({
-        from: configs.MAIL_FROM,
-        to,
-        subject,
-        html,
-      });
-      logger.info(`Email sent to ${to}`);
-    } catch (error) {
-      logger.error(`Error sending email to ${to}: ${error}`);
-    }
-  }
-
   async sendInvitationEmail(
     to: string,
     workspace: IWorkspace,
@@ -51,7 +23,19 @@ class Mailer {
       <p>Accept the invite here: <a href="${configs.CLIENT_URL}/workspaces/${workspace._id}/invites/${invite.inviteCode}">Accept invite</a></p>
     `;
 
-    await this.sendMail(to, subject, html);
+    await sgMail
+      .send({
+        to,
+        from: configs.MAIL_FROM,
+        subject,
+        html,
+      })
+      .then(() => {
+        logger.info(`Email sent to ${to}`);
+      })
+      .catch((error:any) => {
+        logger.error(`Error sending email to ${to}: ${error}`);
+      });
   }
 }
 
